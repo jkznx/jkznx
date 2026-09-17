@@ -59,13 +59,9 @@
 ## `~/signals`
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jkznx&show_icons=true&hide_border=true&bg_color=050505&title_color=B7E778&icon_color=AE75DA&text_color=E9E7DF&ring_color=B7E778&rank_icon=github" alt="jkznx GitHub statistics" />
   <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=jkznx&hide_border=true&background=050505&ring=B7E778&fire=AE75DA&currStreakLabel=B7E778&sideLabels=E9E7DF&dates=9A9A9A&sideNums=E9E7DF&currStreakNum=E9E7DF" alt="jkznx contribution streak" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkznx&layout=compact&hide_border=true&bg_color=050505&title_color=B7E778&text_color=E9E7DF" alt="Most-used programming languages" />
-</p>
 
 ## `~/find-me`
 
