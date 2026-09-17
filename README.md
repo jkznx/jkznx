@@ -33,7 +33,7 @@ Hi — I’m **Jukrachai Plongmai**, a Computer Engineering student at Prince of
 - 💬 Ask me about **network infrastructure, security monitoring, Docker, Kubernetes, FastAPI, and blue-team workflows**.
 - 📫 Reach me at **[jukrachai3146@gmail.com](mailto:jukrachai3146@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/jukrachai-plongmai-158533392/)**.
 
-## `~/toolbox`
+## `~/tech-stack`
 
 <p align="left">
   <img src="https://i.icoziv.workers.dev/icons?i=html5,css3,js,typescript,react,nextjs,nodejs,python,powershell,pytorch,mlflow,jupyter,tailwind,cloudflare,vercel,figma,git,github,vscode,windows,ubuntu,markdown,discord&theme=dark&perline=12&radius=40" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, PowerShell, PyTorch, MLflow, Jupyter, Tailwind CSS, Cloudflare, Vercel, Figma, Git, GitHub, VS Code, Windows, Ubuntu, Markdown, and Discord" />
@@ -44,7 +44,6 @@ Hi — I’m **Jukrachai Plongmai**, a Computer Engineering student at Prince of
 </p>
 
 <p align="left">
-  <sub><b>data, networking, and systems</b></sub><br />
   <img src="https://cdn.simpleicons.org/minio/B7E778" width="42" height="42" title="MinIO" alt="MinIO" />
   <img src="https://api.iconify.design/gcp:data-labeling.svg?color=%23AE75DA" width="42" height="42" title="Label Studio" alt="Label Studio data annotation" />
   <img src="https://api.iconify.design/material-symbols:visibility.svg?color=%23B7E778" width="42" height="42" title="CVAT" alt="CVAT computer vision annotation" />
@@ -57,7 +56,6 @@ Hi — I’m **Jukrachai Plongmai**, a Computer Engineering student at Prince of
 </p>
 
 <p align="left">
-  <sub><b>observability</b></sub><br />
   <img height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" />
   <img height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" />
 </p>
