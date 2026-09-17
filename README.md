@@ -69,7 +69,7 @@
 
 ## `~/find-me`
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jukrachai-plongmai-158533392/"><img src="https://img.shields.io/badge/LinkedIn-AE75DA?style=for-the-badge&logo=linkedin&logoColor=050505" alt="Jukrachai on LinkedIn" /></a>
   <a href="https://github.com/jkznx/Website"><img src="https://img.shields.io/badge/Portfolio-B7E778?style=for-the-badge&logo=vercel&logoColor=050505" alt="Jukrachai's portfolio repository" /></a>
   <a href="mailto:jukrachai3146@gmail.com"><img src="https://img.shields.io/badge/Email-AE75DA?style=for-the-badge&logo=protonmail&logoColor=050505" alt="Email Jukrachai" /></a>
