@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Jukrachai Plongmai — Computer Engineer</title>
+  <desc id="description">An animated black profile header for Jukrachai Plongmai, Computer Engineer, with lime green and lavender gradients.</desc>
+  <defs>
+    <linearGradient id="field" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#030504" />
+      <stop offset="0.54" stop-color="#0a0f0d" />
+      <stop offset="1" stop-color="#17101b" />
+    </linearGradient>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop offset="0" stop-color="#B7E778" />
+      <stop offset="1" stop-color="#AE75DA" />
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#e9e7df" stroke-opacity=".055" />
+    </pattern>
+    <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <clipPath id="typing-clip">
+      <rect x="70" y="142" width="0" height="76">
+        <animate attributeName="width" values="0;0;735;735;0;0" keyTimes="0;.11;.55;.82;.92;1" dur="6s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="320" fill="url(#field)" />
+  <rect width="1200" height="320" fill="url(#grid)" />
+  <circle cx="1050" cy="-30" r="225" fill="#AE75DA" fill-opacity=".1" />
+  <circle cx="1048" cy="-30" r="128" fill="none" stroke="#B7E778" stroke-opacity=".35" />
+  <g transform="translate(76 44)" fill="url(#signal)" filter="url(#glow)">
+    <rect x="0" y="14" width="5" height="12"><animate attributeName="y" values="14;3;14;8;14" dur="1.15s" repeatCount="indefinite" /><animate attributeName="height" values="12;34;12;24;12" dur="1.15s" repeatCount="indefinite" /></rect>
+    <rect x="12" y="8" width="5" height="24"><animate attributeName="y" values="8;15;1;10;8" dur="1.05s" begin="-.18s" repeatCount="indefinite" /><animate attributeName="height" values="24;10;38;20;24" dur="1.05s" begin="-.18s" repeatCount="indefinite" /></rect>
+    <rect x="24" y="12" width="5" height="16"><animate attributeName="y" values="12;2;12;6;12" dur=".92s" begin="-.34s" repeatCount="indefinite" /><animate attributeName="height" values="16;36;16;28;16" dur=".92s" begin="-.34s" repeatCount="indefinite" /></rect>
+    <rect x="36" y="5" width="5" height="30"><animate attributeName="y" values="5;13;0;8;5" dur="1.2s" begin="-.52s" repeatCount="indefinite" /><animate attributeName="height" values="30;14;40;25;30" dur="1.2s" begin="-.52s" repeatCount="indefinite" /></rect>
+    <rect x="48" y="15" width="5" height="10"><animate attributeName="y" values="15;3;15;9;15" dur="1.08s" begin="-.71s" repeatCount="indefinite" /><animate attributeName="height" values="10;34;10;22;10" dur="1.08s" begin="-.71s" repeatCount="indefinite" /></rect>
+    <rect x="60" y="9" width="5" height="22"><animate attributeName="y" values="9;16;1;11;9" dur=".98s" begin="-.29s" repeatCount="indefinite" /><animate attributeName="height" values="22;8;38;18;22" dur=".98s" begin="-.29s" repeatCount="indefinite" /></rect>
+    <rect x="72" y="13" width="5" height="14"><animate attributeName="y" values="13;4;13;7;13" dur="1.18s" begin="-.47s" repeatCount="indefinite" /><animate attributeName="height" values="14;32;14;26;14" dur="1.18s" begin="-.47s" repeatCount="indefinite" /></rect>
+    <rect x="84" y="6" width="5" height="28"><animate attributeName="y" values="6;14;0;9;6" dur="1.02s" begin="-.64s" repeatCount="indefinite" /><animate attributeName="height" values="28;12;40;24;28" dur="1.02s" begin="-.64s" repeatCount="indefinite" /></rect>
+    <rect x="96" y="14" width="5" height="12"><animate attributeName="y" values="14;3;14;8;14" dur="1.11s" begin="-.83s" repeatCount="indefinite" /><animate attributeName="height" values="12;34;12;24;12" dur="1.11s" begin="-.83s" repeatCount="indefinite" /></rect>
+    <rect x="108" y="8" width="5" height="24"><animate attributeName="y" values="8;15;1;10;8" dur=".95s" begin="-.42s" repeatCount="indefinite" /><animate attributeName="height" values="24;10;38;20;24" dur=".95s" begin="-.42s" repeatCount="indefinite" /></rect>
+    <rect x="120" y="12" width="5" height="16"><animate attributeName="y" values="12;2;12;6;12" dur="1.16s" begin="-.57s" repeatCount="indefinite" /><animate attributeName="height" values="16;36;16;28;16" dur="1.16s" begin="-.57s" repeatCount="indefinite" /></rect>
+    <rect x="132" y="5" width="5" height="30"><animate attributeName="y" values="5;13;0;8;5" dur="1.04s" begin="-.76s" repeatCount="indefinite" /><animate attributeName="height" values="30;14;40;25;30" dur="1.04s" begin="-.76s" repeatCount="indefinite" /></rect>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 16;0 0;0 0" dur="1.15s" fill="freeze" />
+    <animate attributeName="opacity" values="0;1;1" dur="1.15s" fill="freeze" />
+    <text x="76" y="132" fill="#e9e7df" font-family="NimbusRomNo9T-Reg, 'Nimbus Roman', Georgia, serif" font-size="19" letter-spacing="4">JUKRACHAI PLONGMAI</text>
+  </g>
+  <text x="70" y="207" clip-path="url(#typing-clip)" fill="#B7E778" font-family="Brahma, 'Arial Narrow', sans-serif" font-size="62" font-weight="700" letter-spacing="1">COMPUTER ENGINEER</text>
+  <rect x="70" y="151" width="4" height="65" fill="#B7E778" filter="url(#glow)">
+    <animate attributeName="x" values="70;70;805;805;70;70" keyTimes="0;.11;.55;.82;.92;1" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0;1;0;1;1" keyTimes="0;.11;.55;.82;.92;1" dur=".75s" repeatCount="indefinite" />
+  </rect>
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.38;.55;.82;.92;1" dur="6s" repeatCount="indefinite" />
+    <text x="74" y="250" fill="#AE75DA" font-family="NimbusRomNo9T-Reg, 'Nimbus Roman', Georgia, serif" font-size="25" font-style="italic" letter-spacing=".8">Systems · Networks · Security</text>
+  </g>
+  <rect x="76" y="276" width="184" height="4" fill="url(#signal)" filter="url(#glow)">
+    <animate attributeName="opacity" values=".45;1;.45" dur="2.6s" repeatCount="indefinite" />
+  </rect>
+</svg>
