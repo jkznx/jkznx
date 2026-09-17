@@ -26,15 +26,15 @@ I am **Jukrachai Plongmai**, a Computer Engineering student at Prince of Songkla
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/MinIO-B7E778?style=for-the-badge&labelColor=050505" alt="MinIO" />
-  <img src="https://img.shields.io/badge/Label%20Studio-AE75DA?style=for-the-badge&labelColor=050505" alt="Label Studio" />
-  <img src="https://img.shields.io/badge/CVAT-B7E778?style=for-the-badge&labelColor=050505" alt="CVAT" />
-  <img src="https://img.shields.io/badge/Bruno-AE75DA?style=for-the-badge&labelColor=050505" alt="Bruno" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-B7E778?style=for-the-badge&labelColor=050505" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/Cisco%20Catalyst-AE75DA?style=for-the-badge&labelColor=050505" alt="Cisco Catalyst" />
-  <img src="https://img.shields.io/badge/Cisco%20Prime-B7E778?style=for-the-badge&labelColor=050505" alt="Cisco Prime" />
-  <img src="https://img.shields.io/badge/Assembly-AE75DA?style=for-the-badge&labelColor=050505" alt="Assembly" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-B7E778?style=for-the-badge&labelColor=050505" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/minio/B7E778" width="46" height="46" title="MinIO" alt="MinIO" />
+  <img src="https://api.iconify.design/gcp:data-labeling.svg?color=%23AE75DA" width="46" height="46" title="Label Studio" alt="Label Studio data annotation" />
+  <img src="https://api.iconify.design/material-symbols:visibility.svg?color=%23B7E778" width="46" height="46" title="CVAT" alt="CVAT computer vision annotation" />
+  <img src="https://cdn.simpleicons.org/bruno/AE75DA" width="46" height="46" title="Bruno" alt="Bruno" />
+  <img src="https://cdn.simpleicons.org/cisco/B7E778" width="46" height="46" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" />
+  <img src="https://cdn.simpleicons.org/cisco/AE75DA" width="46" height="46" title="Cisco Catalyst" alt="Cisco Catalyst" />
+  <img src="https://cdn.simpleicons.org/cisco/B7E778" width="46" height="46" title="Cisco Prime" alt="Cisco Prime" />
+  <img src="https://cdn.simpleicons.org/assemblyscript/AE75DA" width="46" height="46" title="Assembly" alt="Assembly" />
+  <img src="https://cdn.simpleicons.org/huggingface/B7E778" width="46" height="46" title="Hugging Face" alt="Hugging Face" />
 </p>
 
 | Area | Tools and practice |
