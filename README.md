@@ -13,52 +13,19 @@
   <img src="https://img.shields.io/github/followers/jkznx?label=followers&style=flat-square&color=AE75DA&labelColor=050505" alt="GitHub followers" />
 </div>
 
-```txt
-┌─[ jkznx@github ]─────────────────────────────────────────┐
-│                                                          │
-│  currently: building reliable systems and AI workflows  │
-│  focus:     systems • networks • security • applied AI  │
-│  based in:  Thailand                                    │
-│  motto:     reliable systems. calm under pressure.      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-## `~/about-me`
-
-Hi — I’m **Jukrachai Plongmai**, a Computer Engineering student at Prince of Songkla University. I turn technical ideas into dependable systems, from hardware-connected prototypes and enterprise networks to AI-enabled services.
-
-- 🌱 I’m currently learning **AI ecosystem architecture, observability, and cloud deployment**.
-- 🔭 I’m building **[AI Ecosystem Workspace](https://github.com/jkznx/ai-ecosystem-workspace)** — a practical platform for model and data workflows.
-- 💬 Ask me about **network infrastructure, security monitoring, Docker, Kubernetes, FastAPI, and blue-team workflows**.
-- 📫 Reach me at **[jukrachai3146@gmail.com](mailto:jukrachai3146@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/jukrachai-plongmai-158533392/)**.
-
 ## `~/tech-stack`
 
 <p align="left">
   <img src="https://i.icoziv.workers.dev/icons?i=html5,css3,js,typescript,react,nextjs,nodejs,python,powershell,pytorch,mlflow,jupyter,tailwind,cloudflare,vercel,figma,git,github,vscode,windows,ubuntu,markdown,discord&theme=dark&perline=12&radius=40" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, PowerShell, PyTorch, MLflow, Jupyter, Tailwind CSS, Cloudflare, Vercel, Figma, Git, GitHub, VS Code, Windows, Ubuntu, Markdown, and Discord" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,fastapi,postgres,redis,c,cpp,git,docker,kubernetes,github,html,css,js,react&theme=dark" alt="Linux, Python, FastAPI, PostgreSQL, Redis, C, C++, Git, Docker, Kubernetes, GitHub, HTML, CSS, JavaScript, and React" />
-</p>
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/minio/B7E778" width="48" height="48" title="MinIO" alt="MinIO" />
-  <img src="https://api.iconify.design/gcp:data-labeling.svg?color=%23AE75DA" width="48" height="48" title="Label Studio" alt="Label Studio data annotation" />
-  <img src="https://api.iconify.design/material-symbols:visibility.svg?color=%23B7E778" width="48" height="48" title="CVAT" alt="CVAT computer vision annotation" />
   <img src="https://cdn.simpleicons.org/bruno/AE75DA" width="48" height="48" title="Bruno" alt="Bruno" />
   <img src="https://cdn.simpleicons.org/cisco/B7E778" width="48" height="48" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" />
-  <img src="https://cdn.simpleicons.org/cisco/AE75DA" width="48" height="48" title="Cisco Catalyst" alt="Cisco Catalyst" />
-  <img src="https://cdn.simpleicons.org/cisco/B7E778" width="48" height="48" title="Cisco Prime" alt="Cisco Prime" />
   <img src="https://cdn.simpleicons.org/assemblyscript/AE75DA" width="48" height="48" title="Assembly" alt="Assembly" />
   <img src="https://cdn.simpleicons.org/huggingface/B7E778" width="48" height="48" title="Hugging Face" alt="Hugging Face" />
-</p>
-
-<p align="left">
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" />
 </p>
+
 
 | Area | Tools and practice |
 | --- | --- |
