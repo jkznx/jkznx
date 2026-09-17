@@ -18,10 +18,10 @@
 <p align="left">
   <img src="https://i.icoziv.workers.dev/icons?i=html5,css3,js,typescript,react,nextjs,nodejs,python,powershell,pytorch,mlflow,jupyter,tailwind,cloudflare,vercel,figma,git,github,vscode,windows,ubuntu,markdown,discord&theme=dark&perline=12&radius=40" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, PowerShell, PyTorch, MLflow, Jupyter, Tailwind CSS, Cloudflare, Vercel, Figma, Git, GitHub, VS Code, Windows, Ubuntu, Markdown, and Discord" />
   <img src="https://skillicons.dev/icons?i=linux,python,fastapi,postgres,redis,c,cpp,git,docker,kubernetes,github,html,css,js,react&theme=dark" alt="Linux, Python, FastAPI, PostgreSQL, Redis, C, C++, Git, Docker, Kubernetes, GitHub, HTML, CSS, JavaScript, and React" />
-  <img src="https://cdn.simpleicons.org/bruno/AE75DA" width="48" height="48" title="Bruno" alt="Bruno" />
-  <img src="https://cdn.simpleicons.org/cisco/B7E778" width="48" height="48" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" />
-  <img src="https://cdn.simpleicons.org/assemblyscript/AE75DA" width="48" height="48" title="Assembly" alt="Assembly" />
-  <img src="https://cdn.simpleicons.org/huggingface/B7E778" width="48" height="48" title="Hugging Face" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/bruno/FFFFFF" width="48" height="48" title="Bruno" alt="Bruno" />
+  <img src="https://cdn.simpleicons.org/cisco/FFFFFF" width="48" height="48" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" />
+  <img src="https://cdn.simpleicons.org/assemblyscript/FFFFFF" width="48" height="48" title="Assembly" alt="Assembly" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFFF00" width="48" height="48" title="Hugging Face" alt="Hugging Face" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" />
 </p>
