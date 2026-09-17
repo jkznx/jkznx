@@ -44,20 +44,20 @@ Hi — I’m **Jukrachai Plongmai**, a Computer Engineering student at Prince of
 </p>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/minio/B7E778" width="42" height="42" title="MinIO" alt="MinIO" />
-  <img src="https://api.iconify.design/gcp:data-labeling.svg?color=%23AE75DA" width="42" height="42" title="Label Studio" alt="Label Studio data annotation" />
-  <img src="https://api.iconify.design/material-symbols:visibility.svg?color=%23B7E778" width="42" height="42" title="CVAT" alt="CVAT computer vision annotation" />
-  <img src="https://cdn.simpleicons.org/bruno/AE75DA" width="42" height="42" title="Bruno" alt="Bruno" />
-  <img src="https://cdn.simpleicons.org/cisco/B7E778" width="42" height="42" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" />
-  <img src="https://cdn.simpleicons.org/cisco/AE75DA" width="42" height="42" title="Cisco Catalyst" alt="Cisco Catalyst" />
-  <img src="https://cdn.simpleicons.org/cisco/B7E778" width="42" height="42" title="Cisco Prime" alt="Cisco Prime" />
-  <img src="https://cdn.simpleicons.org/assemblyscript/AE75DA" width="42" height="42" title="Assembly" alt="Assembly" />
-  <img src="https://cdn.simpleicons.org/huggingface/B7E778" width="42" height="42" title="Hugging Face" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/minio/B7E778" width="48" height="48" title="MinIO" alt="MinIO" />
+  <img src="https://api.iconify.design/gcp:data-labeling.svg?color=%23AE75DA" width="48" height="48" title="Label Studio" alt="Label Studio data annotation" />
+  <img src="https://api.iconify.design/material-symbols:visibility.svg?color=%23B7E778" width="48" height="48" title="CVAT" alt="CVAT computer vision annotation" />
+  <img src="https://cdn.simpleicons.org/bruno/AE75DA" width="48" height="48" title="Bruno" alt="Bruno" />
+  <img src="https://cdn.simpleicons.org/cisco/B7E778" width="48" height="48" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" />
+  <img src="https://cdn.simpleicons.org/cisco/AE75DA" width="48" height="48" title="Cisco Catalyst" alt="Cisco Catalyst" />
+  <img src="https://cdn.simpleicons.org/cisco/B7E778" width="48" height="48" title="Cisco Prime" alt="Cisco Prime" />
+  <img src="https://cdn.simpleicons.org/assemblyscript/AE75DA" width="48" height="48" title="Assembly" alt="Assembly" />
+  <img src="https://cdn.simpleicons.org/huggingface/B7E778" width="48" height="48" title="Hugging Face" alt="Hugging Face" />
 </p>
 
 <p align="left">
-  <img height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" />
-  <img height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" />
 </p>
 
 | Area | Tools and practice |
