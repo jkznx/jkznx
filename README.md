@@ -22,15 +22,28 @@ I am **Jukrachai Plongmai**, a Computer Engineering student at Prince of Songkla
 ## Project-backed technical stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,fastapi,postgres,redis,c,cpp,git,docker,kubernetes,github,html,css,js&theme=dark" alt="Linux, Python, FastAPI, PostgreSQL, Redis, C, C++, Git, Docker, Kubernetes, GitHub, HTML, CSS, and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=linux,python,fastapi,postgres,redis,c,cpp,git,docker,kubernetes,github,html,css,js,react&theme=dark" alt="Linux, Python, FastAPI, PostgreSQL, Redis, C, C++, Git, Docker, Kubernetes, GitHub, HTML, CSS, JavaScript, and React" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MinIO-B7E778?style=for-the-badge&labelColor=050505" alt="MinIO" />
+  <img src="https://img.shields.io/badge/Label%20Studio-AE75DA?style=for-the-badge&labelColor=050505" alt="Label Studio" />
+  <img src="https://img.shields.io/badge/CVAT-B7E778?style=for-the-badge&labelColor=050505" alt="CVAT" />
+  <img src="https://img.shields.io/badge/Bruno-AE75DA?style=for-the-badge&labelColor=050505" alt="Bruno" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-B7E778?style=for-the-badge&labelColor=050505" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Cisco%20Catalyst-AE75DA?style=for-the-badge&labelColor=050505" alt="Cisco Catalyst" />
+  <img src="https://img.shields.io/badge/Cisco%20Prime-B7E778?style=for-the-badge&labelColor=050505" alt="Cisco Prime" />
+  <img src="https://img.shields.io/badge/Assembly-AE75DA?style=for-the-badge&labelColor=050505" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-B7E778?style=for-the-badge&labelColor=050505" alt="Hugging Face" />
 </p>
 
 | Area | Tools and practice |
 | --- | --- |
 | AI Ecosystem Workspace | FastAPI, Pydantic, SQLAlchemy, arq workers, PostgreSQL, Redis, MinIO, Label Studio, Uvicorn, Docker Compose |
 | Systems and cloud | Linux, Docker, Kubernetes, Git, Google Cloud, Alibaba Cloud, deployment workflows |
-| Networks and defence | Cisco networking, Wireshark, Xshell, TCP/IP, Wazuh, Suricata, SIEM monitoring, incident response |
-| Software and data | Python, C/C++, SQL, HTML, CSS, JavaScript, machine learning |
+| Networks and defence | Cisco Packet Tracer, Cisco Catalyst, Cisco Prime, Wireshark, Xshell, TCP/IP, Wazuh, Suricata, SIEM monitoring, incident response |
+| Software and data | Python, C/C++, Assembly, SQL, HTML, CSS, JavaScript, React, machine learning |
+| Computer vision and ML | CVAT data annotation, Label Studio, Hugging Face, model experimentation and dataset workflows |
 | Embedded systems | ESP32, Arduino Uno, ODROID, sensor-connected prototypes |
 | AI-assisted workflow | Codex, Claude, Warp, Antigravity, GitHub Copilot |
 
