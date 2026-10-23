@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/jkznx">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=900&color=B7E778&center=true&vCenter=true&width=800&lines=Jukrachai+Plongmai+%E2%80%94+Computer+Engineer;Systems+%E2%80%A2+Networks+%E2%80%A2+Security;Building+reliable+tools+and+useful+AI+systems" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=900&color=B7E778&center=true&vCenter=true&width=800&lines=Jukrachai+Plongmai+%E2%80%94+Computer+Engineer+%E2%80%94+Systems+%26+Security&color=B7E778" alt="Jukrachai Plongmai — Computer Engineer for systems, networks, and security." />
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=jkznx&label=profile%20views&color=B7E778&style=flat-square" alt="Profile views" />
@@ -16,7 +16,7 @@
 ## `~/tech-stack`
 
 <p align="left">
-  <img src="https://i.icoziv.workers.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,python,powershell,pytorch,mlflow,jupyter,tailwind,cloudflare,vercel,figma,git,github,vscode,windows,ubuntu,markdown,discord&theme=dark&perline=12&radius=xl" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, PowerShell, PyTorch, MLflow, Jupyter, Tailwind CSS, Cloudflare, Vercel, Figma, Git, GitHub, VS Code, Windows, Ubuntu, Markdown, and Discord" />
+  <img src="https://i.icoziv.workers.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,python,powershell,pytorch,mlflow,jupyter,tailwind,cloudflare,vercel,figma,git,github,vscode,windows,ubuntu,linux,fastapi,postgres,redis,docker,kubernetes&theme=dark" alt="Tech stack logos" />
   <img src="https://skillicons.dev/icons?i=linux,fastapi,postgres,redis,c,cpp,git,docker,kubernetes&theme=dark" alt="Linux, FastAPI, PostgreSQL, Redis, C, C++, Git, Docker, Kubernetes" />
   <img src="https://cdn.simpleicons.org/bruno/FFFFFF" width="48" height="48" title="Bruno" alt="Bruno" />
   <img src="https://cdn.simpleicons.org/cisco/FFFFFF" width="48" height="48" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" />
@@ -25,7 +25,6 @@
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" />
 </p>
-
 
 | Area | Tools and practice |
 | --- | --- |
@@ -41,7 +40,7 @@
 
 | Role | What I did |
 | --- | --- |
-| System Engineer · Anyware Communication Co., Ltd. | Deployed and supported network devices and servers; reduced downtime through practical troubleshooting; prepared diagrams and operational handover documents. |
+| System Engineer · Anyware Communication Co., Ltd. | Deployed and supported network devices and servers; reduced downtime through practical troubleshooting; prepared diagrams and operational handover documentation for production systems. |
 | Cybersecurity Intern · DiiS PSU | Monitored SIEM events, investigated and escalated potential incidents, and built clear security runbooks and checklists. |
 | Competitor · Thailand Cyber Top Talent 2025 | Placed 6th nationally as part of a blue team across penetration-testing, capture-the-flag, and incident-response challenges. |
 | President · International Relations Club, PSU | Led student activities, workshops, and international collaboration. |
@@ -50,6 +49,7 @@
 
 | Build | Focus | Repository |
 | --- | --- | --- |
+| Aphrodize | Local MLOps platform for private image analysis, annotation, async inference/training, and ML workflow orchestration | [Open project](https://github.com/PacharaponK/Aphrodize) |
 | AI Ecosystem Workspace | AI platform with FastAPI, background workers, PostgreSQL, Redis, MinIO, Label Studio, and Docker Compose | [Open project](https://github.com/jkznx/ai-ecosystem-workspace) |
 | CoE Lotto | Cloud deployment and Kubernetes | [Open project](https://github.com/jkznx/sda_final) |
 | Network Infrastructure | Enterprise networking with Wazuh and Suricata | [Explore coursework](https://github.com/jkznx/My-Project-in-University/tree/main/Year_3/semester_2) |
@@ -59,9 +59,8 @@
 ## `~/signals`
 
 <p align="center">
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=jkznx&hide_border=true&background=050505&ring=B7E778&fire=AE75DA&currStreakLabel=B7E778&sideLabels=E9E7DF&dates=9A9A9A&sideNums=E9E7DF&currStreakNum=E9E7DF" alt="jkznx contribution streak" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=jkznx&hide_border=true&background=050505&ring=B7E778&fire=AE75DA&currStreakLabel=B7E778&sideLabels=E9E7DF&dates=9A9A9A&locale=en" alt="GitHub streak stats" />
 </p>
-
 
 ## `~/find-me`
 
