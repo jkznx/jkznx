@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/jkznx">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=900&color=B7E778&center=true&vCenter=true&width=800&lines=Jukrachai+Plongmai+%E2%80%94+Computer+Engineer+%E2%80%94+Systems+%26+Security&color=B7E778" alt="Jukrachai Plongmai — Computer Engineer for systems, networks, and security." />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=900&color=B7E778&center=true&vCenter=true&width=800&lines=Jukrachai+Plongmai+%E2%80%94+Computer+Engineer+%7C+Systems+%2C+Networks+%2C+Security" alt="Jukrachai Plongmai — Computer Engineer | Systems, Networks, Security" />
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=jkznx&label=profile%20views&color=B7E778&style=flat-square" alt="Profile views" />
@@ -16,7 +16,7 @@
 ## `~/tech-stack`
 
 <p align="left">
-  <img src="https://i.icoziv.workers.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,python,powershell,pytorch,mlflow,jupyter,tailwind,cloudflare,vercel,figma,git,github,vscode,windows,ubuntu,linux,fastapi,postgres,redis,docker,kubernetes&theme=dark" alt="Tech stack logos" />
+  <img src="https://i.icoziv.workers.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,python,powershell,pytorch,mlflow,jupyter,tailwind,cloudflare,vercel,figma,git,github,vscode,windows,ubuntu,postgres,redis,fastapi,linux,flask" alt="tech stack" />
   <img src="https://skillicons.dev/icons?i=linux,fastapi,postgres,redis,c,cpp,git,docker,kubernetes&theme=dark" alt="Linux, FastAPI, PostgreSQL, Redis, C, C++, Git, Docker, Kubernetes" />
   <img src="https://cdn.simpleicons.org/bruno/FFFFFF" width="48" height="48" title="Bruno" alt="Bruno" />
   <img src="https://cdn.simpleicons.org/cisco/FFFFFF" width="48" height="48" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" />
@@ -40,7 +40,7 @@
 
 | Role | What I did |
 | --- | --- |
-| System Engineer · Anyware Communication Co., Ltd. | Deployed and supported network devices and servers; reduced downtime through practical troubleshooting; prepared diagrams and operational handover documentation for production systems. |
+| System Engineer · Anyware Communication Co., Ltd. | Deployed and supported network devices and servers; reduced downtime through practical troubleshooting; prepared diagrams and operational handbooks. |
 | Cybersecurity Intern · DiiS PSU | Monitored SIEM events, investigated and escalated potential incidents, and built clear security runbooks and checklists. |
 | Competitor · Thailand Cyber Top Talent 2025 | Placed 6th nationally as part of a blue team across penetration-testing, capture-the-flag, and incident-response challenges. |
 | President · International Relations Club, PSU | Led student activities, workshops, and international collaboration. |
@@ -49,6 +49,7 @@
 
 | Build | Focus | Repository |
 | --- | --- | --- |
+| Cat Coup | Cat-themed online multiplayer bluffing game with private room codes and social deception gameplay | [Open project](https://github.com/jkznx/cat-coup-project-for-fun) |
 | Aphrodize | Local MLOps platform for private image analysis, annotation, async inference/training, and ML workflow orchestration | [Open project](https://github.com/PacharaponK/Aphrodize) |
 | AI Ecosystem Workspace | AI platform with FastAPI, background workers, PostgreSQL, Redis, MinIO, Label Studio, and Docker Compose | [Open project](https://github.com/jkznx/ai-ecosystem-workspace) |
 | CoE Lotto | Cloud deployment and Kubernetes | [Open project](https://github.com/jkznx/sda_final) |
@@ -59,7 +60,7 @@
 ## `~/signals`
 
 <p align="center">
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=jkznx&hide_border=true&background=050505&ring=B7E778&fire=AE75DA&currStreakLabel=B7E778&sideLabels=E9E7DF&dates=9A9A9A&locale=en" alt="GitHub streak stats" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=jkznx&hide_border=true&background=050505&ring=B7E778&fire=AE75DA&currStreakLabel=B7E778&sideLabels=E9E7DF&dates=9A9A9A9" alt="GitHub streak stats" />
 </p>
 
 ## `~/find-me`
