@@ -6,9 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/jkznx">
-    <h1 style="font-family: 'JetBrains Mono', monospace; font-size: 24px; font-weight: 700; color: #B7E778; margin: 0; line-height: 1.4;">
-      Jukrachai Plongmai — Computer Engineer | Systems, Networks, Security
-    </h1>
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=jkznx&label=profile%20views&color=B7E778&style=flat-square" alt="Profile views" />
