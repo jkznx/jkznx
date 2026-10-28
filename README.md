@@ -6,7 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/jkznx">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=900&color=B7E778&center=true&vCenter=true&width=800&lines=Jukrachai+Plongmai+%E2%80%94+Computer+Engineer+%7C+Systems+%2C+Networks+%2C+Security" alt="Jukrachai Plongmai — Computer Engineer | Systems, Networks, Security" />
+    <h1 style="font-family: 'JetBrains Mono', monospace; font-size: 24px; font-weight: 700; color: #B7E778; margin: 0; line-height: 1.4;">
+      Jukrachai Plongmai — Computer Engineer | Systems, Networks, Security
+    </h1>
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=jkznx&label=profile%20views&color=B7E778&style=flat-square" alt="Profile views" />
